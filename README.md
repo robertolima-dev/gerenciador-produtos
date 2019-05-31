@@ -12,9 +12,9 @@ _tb_categoria_
 
 _tb_produto_
 
-Abra o ambiente de desenvolvimento do PHP e cole as pastas (ger_produto e ger_produto_Off) na pasta htdocs.
+Abra o ambiente de desenvolvimento do PHP e cole a pasta na pasta htdocs.
 
-Acesse localhost e clique na página ger_produto.
+Acesse localhost e clique na página gerenciador_produtos.
 
 Cadastre um novo usuário ou acesse algum dos três usuários cadastrados:
 
